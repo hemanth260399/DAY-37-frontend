@@ -1,8 +1,7 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h1>Day-37 task create a login page and forget password page using React js</h1>
+<ul>
+  <li>In this task i have created the login page and forget password page</li>
+  <li>I have created login page ,register page but in register page i dont send any email verification link because in the question you dont ask like that at next task i will update that</li>
+  <li>When you register data stored in mongodb and you can login and logout using email and that data is stored in local stroage to user dont access the login page after the user successfully login</li>
+  <li>In forget page you enter the email mail end to your mail there you can change the password one you use the password again you dont use the link</li>
+</ul>
